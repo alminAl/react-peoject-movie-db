@@ -16,9 +16,9 @@ function App() {
 			<Header />
 			<Switch>
 				<Route exact path="/" > <Home />  </Route>
-				<Route exact path="/review" > <Review />  </Route>
-				<Route exact path="/add-movie"> <AddMovie />  </Route>
-				<Route exact path="/details/:id"> <Movie />  </Route>
+				<Route path="/review" > <Review />  </Route>
+				<Route path="/add-movie"> <AddMovie />  </Route>
+				<Route path="/details/:id"> <Movie />  </Route>
 			</Switch>
 			<ToastContainer />
 			<Footer />

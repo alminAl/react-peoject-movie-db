@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Live demo`
+Open [https://brave-kilby-e84782.netlify.app](https://brave-kilby-e84782.netlify.app) to view it for live.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
